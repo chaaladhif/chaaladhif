@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**chaaladhif/chaaladhif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chaala, a junior frontEnd web developer based on France.
 
-Here are some ideas to get you started:
+💬 you Could reach out to me on discord : [chaala](https://discord.com/channels/@me)
+You can find me on linkedin: https://www.linkedin.com/in/chaala-dhif-588335176/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🙌 - 🔭 I’m currently working on...
+--------------------------------------
+
+html5-logo	css3-logo	javascript-logo	react-logo	redux-logo	sass-logo	nodedotjs-logo	postgresql-logo	git-logo	figma-logo
+
+
+🧠 I'm currently learning...
+--------------------------------------
+
+
+
+
+
