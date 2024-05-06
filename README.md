@@ -35,7 +35,9 @@ You can find me on linkedin: https://www.linkedin.com/in/chaala-dhif-588335176/
 
 🧠 I'm currently working on...
 --------------------------------------
-
+![icons8-css3-48 (1)](https://github.com/chaaladhif/chaaladhif/assets/114950724/57ac1025-316c-417b-a7dd-d56b12555953)
+![icons8-nodejs-48](https://github.com/chaaladhif/chaaladhif/assets/114950724/09b94595-db79-4211-a832-1950c18fca26)
+![icons8-react-native-48](https://github.com/chaaladhif/chaaladhif/assets/114950724/31dd8f58-2407-4b8c-ac12-dc25f5c352ba)
 
 
 
