@@ -1,7 +1,7 @@
 ### Hi there 👋
 ----------------------------------------
 
-I'm Chaala, a junior frontEnd web developer based on France.
+I'm Chaala, a junior fullstack developer based on France.
 
 🙌 - 🔭 I’m currently learning...
 --------------------------------------
@@ -15,7 +15,7 @@ I'm Chaala, a junior frontEnd web developer based on France.
 --------------------------------------
 | ![icons8-css3-48 (1)](https://github.com/chaaladhif/chaaladhif/assets/114950724/57ac1025-316c-417b-a7dd-d56b12555953) | ![icons8-nodejs-48](https://github.com/chaaladhif/chaaladhif/assets/114950724/09b94595-db79-4211-a832-1950c18fca26) | ![icons8-react-native-48](https://github.com/chaaladhif/chaaladhif/assets/114950724/31dd8f58-2407-4b8c-ac12-dc25f5c352ba)| ![docker](https://github.com/chaaladhif/chaaladhif/assets/114950724/96bc83aa-a143-415c-9c1a-4e8348026643) |
 |--------------------------------------------------------------------:|-------------------------------------|-----------------------------------------------------|------------------------------------------------|
-| Js |  Node | React | docker |
+| Javascipt |  Node | React | docker |
 
 💬 you Could reach out to me on discord : [chaala](https://discord.com/channels/@me)
 ----------------------------------------------------------------------------------------
