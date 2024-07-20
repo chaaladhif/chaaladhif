@@ -17,7 +17,7 @@ https://portfolio.sitesbychaala.com/
 💬 you Could reach out to me on discord : [chaala](https://discord.com/channels/@me)
 ----------------------------------------------------------------------------------------
 
-You can find me on linkedin: https://www.linkedin.com/in/chaala-dhif-588335176/
+You can find me on linkedin: https://www.linkedin.com/in/chaala-dhifallah-588335176/
 ---------------------------------------------------------------------------------
 
 
