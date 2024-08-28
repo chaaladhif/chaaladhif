@@ -5,6 +5,7 @@ I'm Chaala, a junior fullstack developer based on France.
 
 ### 🙌 take a look at my portfolio:
 https://portfolio.sitesbychaala.com/
+my website: https://sitesbychaala.com/
 
 - 🧠 I'm currently working on...
 --------------------------------------
